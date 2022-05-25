@@ -24,4 +24,4 @@ answer(array);
 
 console.log(ans);
 
-//adding some comments
+//adding some comments, the above naming convention can be changed
