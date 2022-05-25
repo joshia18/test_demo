@@ -23,5 +23,3 @@ function answer(array){
 answer(array);
 
 console.log(ans);
-
-//adding some comments
