@@ -20,7 +20,6 @@ function answer(array){
 	}
 }
 
-answer(array);
 
 console.log(ans);
 console.log(array);
