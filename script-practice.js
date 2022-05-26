@@ -23,7 +23,17 @@ function answer(array){
 	}
 }
 
+function sum(array){
+	let sum = 0;
+	for(item of array){
+		sum += item;
+	}
+	
+	return sum;
+}
 
+answer(array);
+sum(array);
 console.log(ans);
 console.log(array);
 //adding some comments, the above naming convention can be changed
