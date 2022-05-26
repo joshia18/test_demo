@@ -3,8 +3,9 @@ array.sort((a,b) => {return a-b});
 
 let ans = [];
 
+let i = 0, j = 0;
+
 function answer(array){
-	let i = 0, j = 0;
 	while(i < array.length){
 		while(array[i] == array[j]){
 			j++;
