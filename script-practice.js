@@ -3,10 +3,8 @@ array.sort((a,b) => {return a-b});
 
 let ans = [];
 
-<<<<<<< HEAD
 let i = 0, j = 0;
-=======
->>>>>>> master
+
 
 function answer(array){
 	
