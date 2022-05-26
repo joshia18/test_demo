@@ -23,5 +23,5 @@ function answer(array){
 answer(array);
 
 console.log(ans);
-
+console.log(array);
 //adding some comments, the above naming convention can be changed
