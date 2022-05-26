@@ -5,6 +5,7 @@ let ans = [];
 
 let i = 0, j = 0;
 
+
 function answer(array){
 	
 	while(i < array.length){
